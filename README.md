@@ -1,2 +1,3 @@
-# github-common-defaults
-Common defaults for issues, renovate, etc.
+# Common Defaults
+
+Repository to store common actions like Container build pipelines, configuration for Renovate etc.
